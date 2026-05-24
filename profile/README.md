@@ -1,4 +1,11 @@
+# Arab Agent Skills
 
+```text
+      ###    ####      ###    ####
+     #   #   #   #    #   #   #   #
+     #####   ####     #####   ####
+     #   #   #  #     #   #   #   #
+     #   #   #   #    #   #   ####
 
        ###    ####  #####  #   #  #####
       #   #  #      #      ##  #    #
@@ -10,11 +17,14 @@
       #      #  #     #    #       #       #
        ###   ###      #    #       #        ###
           #  #  #     #    #       #           #
-      ####   #   #  #####  #####   #####  ####`
+      ####   #   #  #####  #####   #####  ####
+```
 
-**Agent-ready skills for Arab and MENA APIs.**
+**Agent-ready, source-backed skills for Arab and MENA APIs.**
 
-Arab Agent Skills is an open-source ecosystem for giving AI coding agents the regional API knowledge they usually miss: local payment gateways, government rails, logistics APIs, SMS and WhatsApp providers, e-invoicing flows, open banking references, identity APIs, commerce platforms, HR systems, Arabic NLP, and open data.
+Website: [ArabSkills.info](https://arabskills.info)
+
+Arab Agent Skills gives AI coding agents the regional API knowledge they usually miss: local payment gateways, government rails, logistics APIs, SMS and WhatsApp providers, e-invoicing flows, open banking references, identity APIs, commerce platforms, HR systems, Arabic NLP, and open data.
 
 ## Start Here
 
@@ -22,12 +32,13 @@ Arab Agent Skills is an open-source ecosystem for giving AI coding agents the re
 | --- | --- |
 | [Skills](https://github.com/ArabAgentSkills/Skills) | Public install repo for generated agent skills, vendor files, eval prompts, and source-backed references. |
 | [Arab Payments Skill Atlas](https://github.com/ArabAgentSkills/arab-payments-skill-atlas) | The original payments skill by Mohamed Waleed that sparked the broader project. |
+| [ArabSkills.info](https://arabskills.info) | Public website for browsing skills, vendors, sources, evals, docs, and machine-readable context. |
 
 ## Install
 
-`ash
-npx skills add ArabAgentSkills/skills
-`
+```bash
+npx skills add ArabAgentSkills/Skills
+```
 
 ## Why This Exists
 
