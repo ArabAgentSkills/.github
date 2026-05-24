@@ -29,7 +29,6 @@ Arab Agent Skills is an open-source ecosystem for giving AI coding agents the re
 | --- | --- |
 | [Skills](https://github.com/ArabAgentSkills/Skills) | Public install repo for generated agent skills, vendor files, eval prompts, and source-backed references. |
 | [Arab Payments Skill Atlas](https://github.com/ArabAgentSkills/arab-payments-skill-atlas) | The original payments skill by Mohamed Waleed that sparked the broader project. |
-| [Main](https://github.com/ArabAgentSkills/Main) | Private website and maintenance system for registry generation, crawling, evals, and Netlify publishing. |
 
 ## Install
 
